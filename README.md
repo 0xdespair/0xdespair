@@ -1,16 +1,14 @@
-## Hi there 👋
+<div align="center">
+<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&bg=none&frame=none&speed=100&comment=) -->
+<!-- ![](https://typograssy.deno.dev/api?text=お兄ちゃんはおしまい!&l0=none&l1=00cce6&l2=80f1ff&l3=009eb3&l4=caf9ff&bg=none&frame=none&speed=100&comment=) -->
 
-<!--
-**0xdespair/0xdespair** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+</div>
 
-Here are some ideas to get you started:
+![Preview](./images/bg.webp)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<a href="https://discord.gg"><img align="right" width="425" src="https://lanyard.kyrie25.me/api/327554528599867393?imgStyle=square&gradient=e9d6d5-e9d6d5-f3b1b4-ffffff&bg=0d1117"></a>
+
+
+### Hi!👋 I'm Despair🌙
+
+**Weeb Developer and Gamer** 
